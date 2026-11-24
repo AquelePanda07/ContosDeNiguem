@@ -1,0 +1,12 @@
+# Obsidian — arquivos que mudam a cada vez que você abre ou fecha uma nota
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Lixeira do Obsidian
+.trash/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
