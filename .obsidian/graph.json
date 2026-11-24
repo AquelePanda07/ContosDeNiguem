@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"01 Mundo\"",
+      "color": {
+        "a": 1,
+        "rgb": 5151323
+      }
+    },
+    {
+      "query": "path:\"02 Povos\"",
+      "color": {
+        "a": 1,
+        "rgb": 14263361
+      }
+    },
+    {
+      "query": "path:\"03 Personagens\"",
+      "color": {
+        "a": 1,
+        "rgb": 6000111
+      }
+    },
+    {
+      "query": "path:\"04 Facções\"",
+      "color": {
+        "a": 1,
+        "rgb": 12597547
+      }
+    },
+    {
+      "query": "path:\"05 História\"",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:\"06 Bestiário\"",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 0.4828125,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224413,
+  "close": false
+}
