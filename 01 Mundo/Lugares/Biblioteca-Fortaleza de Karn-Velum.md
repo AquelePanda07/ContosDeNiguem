@@ -2,13 +2,13 @@
 tipo: lugar
 regiao: Noroeste
 aliases:
-  - Biblioteca-Fortaleza de Karn-Velum
+  - Biblioteca de Karn-Velum
 tags:
   - lugar
 fonte: "Codex de Karn-Velum, Folhas 1, 9, 12"
 ---
 
-# Karn-Velum
+# Biblioteca-Fortaleza de Karn-Velum
 
 Uma das [[Bibliotecas-Fortalezas]] dos [[Anões]], nas montanhas do noroeste. É onde trabalha [[Dunrik Pedralume]] e onde foi compilado o [[Codex de Karn-Velum]].
 

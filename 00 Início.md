@@ -4,29 +4,44 @@ tags:
   - indice
 ---
 
-# Karn-Velum — a Terra Que Respira
+# Karn-Velum
 
-> [!abstract] Como usar este cofre
-> Cada povo, lugar, personagem, facção e era tem a sua própria nota, e elas se ligam entre si. Comece por aqui, abra a [[Linha do Tempo]] ou use a **Visão de Grafo** para ver como tudo se conecta.
-> Tudo o que está nas notas veio do [[Codex de Karn-Velum]]. Dúvidas e lacunas ficam em [[Pontas Soltas]].
+> [!abstract] Sobre este cofre
+> Mundo de RPG criado por **Breno** (organização), **Artur** (*Codex de Karn-Velum*) e **Guilherme** (*Crônicas de Ferro*).
+> Cada povo, lugar, personagem, facção e era tem a sua nota, e elas se ligam entre si. As notas dizem de qual documento veio cada informação:
+> - 📜 **Codex** — [[Codex de Karn-Velum]], escrito no mundo por [[Dunrik Pedralume]] (arquivista anão)
+> - 📘 **Crônicas** — [[Crônicas de Ferro]], escrito no mundo por [[Lysara Vellacanto]] (historiadora de Naramel)
+>
+> Os dois autores se conhecem e **discordam**. O que precisa de decisão do grupo está em [[Conflitos entre Fontes]]; dúvidas abertas, em [[Pontas Soltas]].
 
 ![[carta-da-terra-que-respira.jpg]]
 
 ## 🗺️ Mundo
-- [[A Terra Que Respira]] — o continente e as suas regiões
-- Lugares: [[Karn-Velum]] · [[Bibliotecas-Fortalezas]] · [[Estradas de Pedra]] · [[Calamesh]] · [[Vulcão Central]] · [[Vale de Ithren]] · [[Desfiladeiro das Oito Vozes]] · [[Ermos de Cinza]] · [[Pântanos do Sudoeste]] · [[Matas dos Velocis]] · [[Estepes do Leste]] · [[Ermo Gelado]] · [[Pedra do Juramento]]
+- [[Karn-Velum]] — o continente e as suas regiões
+- **Noroeste:** [[Grande Cordilheira]] · [[Bibliotecas-Fortalezas]] · [[Biblioteca-Fortaleza de Karn-Velum]] · [[Matas dos Velocis]]
+- **Centro e oeste:** [[Calamesh]] · [[Vulcão Central]] · [[Costa de Ferro]] · [[Naramel]] · [[Ermos de Cinza]] · [[Pedra do Juramento]]
+- **Sul e leste:** [[Vale de Ithren]] · [[Pântanos do Sudoeste]] · [[Estepes do Leste]] · [[Ermo Gelado]]
+- **Outros:** [[Estradas de Pedra]] · [[Desfiladeiro das Oito Vozes]] · [[Gatópolis]] · [[Elaria]]
 
 ## 🌿 Povos nativos
 [[Fadas e Feéricos]] · [[Fungi]] · [[Povos-Sapo]] · [[Ceratops]] · [[Velocis]] · [[Centauros]]
 
 ## ⛵ Os que vieram pelo mar
-[[Anões]] · [[Humanos]] · [[Primeiros Povos]] · [[Elfos]] · [[Hobgoblins]]
+[[Anões]] · [[Humanos]] · [[Primeiros Povos]] · [[Elfos]] · [[Hobgoblins]] · [[Qareen]] · [[Felis]]
 
 ## 👤 Personagens
-[[Borgra Pedralume]] · [[Dunrik Pedralume]] · [[Orrum Duas-Águas]] · [[Dunna Ferrolho]] · [[Vhorak Dente-de-Cinza]] · [[Ozar Calam]] · [[Imperador de Ferro]]
+- **Cronistas:** [[Dunrik Pedralume]] · [[Lysara Vellacanto]]
+- **Era antiga:** [[Borgra Pedralume]] · [[Orrum Duas-Águas]] · [[Dunna Ferrolho]] · [[Vhorak Dente-de-Cinza]]
+- **Império:** [[Ozar Calam]] · [[Dastan Calam]] · [[Jesamym Octaviam]] · [[Imperador de Ferro]]
 
 ## ⚔️ Facções e poderes
-[[Conselho das Oito Vozes]] · [[Grande Armada]] · [[Liga da Vigília]] · [[Império de Ferro]] · [[Cidades Livres]] · [[Herdeiros de Ferro]]
+- **Povos livres:** [[Conselho das Oito Vozes]] · [[Cidades Livres]]
+- **Invasores:** [[Grande Armada]]
+- **Império:** [[Liga da Vigília]] · [[Império de Ferro]] · [[Conclave de Ferro]] · [[Coalizão Alash]] · [[Herdeiros de Ferro]]
+- **Casas imperiais:** [[Casa Calam]] · [[Casa Octaviam]] · [[Casa Pluma]] · [[Casa Navarrel]] · [[Casa Alashamar]]
+
+## 🏛️ Instituições do Império
+[[Hierarquia Imperial]] · [[Magia no Império]] · [[Economia e Infraestrutura Imperial]]
 
 ## 📜 História
 [[Linha do Tempo]]
@@ -35,15 +50,16 @@ tags:
 3. [[Guerra das 100 Cinzas]] (588–600 AR)
 4. [[O Longo Silêncio]] (600–712 AR)
 5. [[A Grande Primavera]] (712–860 AR)
-6. [[Império de Ferro]] (860–1141 AR)
-7. [[Dias de Agora]] (1141 AR em diante)
+6. [[Império de Ferro]] (860 AR – ⚠️ data da queda em disputa)
+7. [[Dias de Agora]]
 
-Momentos-chave: [[Pacto da Sétima Voz]] · [[Juramento de Vhorak]] · [[Noite das Forjas]]
+Momentos-chave: [[Pacto da Sétima Voz]] · [[Juramento de Vhorak]] · [[Guerra Civil Imperial]] · [[Noite das Forjas]]
 
 ## 🐉 Bestiário — o que ainda ronda
 [[Dragões Rubros]] · [[Serpes Esmeralda]] · [[Autômatos de Ferro]] · [[Fogos-de-Cinza]]
 
-## 📚 Fontes e trabalho
-- [[Codex de Karn-Velum]] — o documento original (PDF incluso)
-- [[Pontas Soltas]] — perguntas em aberto e pontos para revisar
+## 📚 Fontes e trabalho do grupo
+- [[Codex de Karn-Velum]] (Artur) · [[Crônicas de Ferro]] (Guilherme) — PDFs inclusos
+- [[Conflitos entre Fontes]] — **decisões pendentes do grupo**
+- [[Pontas Soltas]] — perguntas em aberto
 - Modelos para novas notas: pasta `Modelos`

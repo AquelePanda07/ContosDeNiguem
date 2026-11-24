@@ -15,7 +15,7 @@ fonte: "Codex de Karn-Velum, todas as folhas"
 
 ## ► Informações Gerais
 - **Povo:** [[Anões]]
-- **Profissão:** Arquivista da Biblioteca-Fortaleza de [[Karn-Velum]] (Terceira Galeria)
+- **Profissão:** Arquivista da [[Biblioteca-Fortaleza de Karn-Velum]] (Terceira Galeria)
 - **Época:** compilou o [[Codex de Karn-Velum]] em **1167 AR**
 - **Família:** casado; bisneto do bisneto de [[Borgra Pedralume]]
 
@@ -32,6 +32,9 @@ fonte: "Codex de Karn-Velum, todas as folhas"
 ## ► Rituais
 - Visita a [[Pedra do Juramento]] **a cada dez anos**.
 - No aniversário da batalha do [[Desfiladeiro das Oito Vozes]], lê em voz alta os cem nomes da [[Guerra das 100 Cinzas]]. Leva a manhã inteira.
+
+## ► Relações
+- [[Lysara Vellacanto]] — amiga e correspondente, historiadora de Naramel. Usa o Codex como referência, mas critica a cronologia imperial dele nas [[Crônicas de Ferro]], com carinho e ironia: *"para certos arquivistas, uma data mal colocada seja uma ofensa quase pessoal."*
 
 ## ► Frases Descritivas
 > ***"O que não está escrito, ainda não aconteceu — ou alguém fez questão de esquecer."***

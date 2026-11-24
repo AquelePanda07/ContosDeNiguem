@@ -5,7 +5,7 @@ chegada: 340 AR
 perigo: 2/5
 tags:
   - povo/vindo-pelo-mar
-fonte: "Codex de Karn-Velum, Folha 11"
+fonte: "Codex de Karn-Velum, Folha 11; Crônicas de Ferro, Livro V"
 ---
 
 # Elfos
@@ -29,6 +29,11 @@ Chegaram cansados, com orgulho ferido e nada a perder. **Lembram de tudo, como o
 - Aprenderam com as fadas a arte de esconder caminhos.
 - Nas guerras seguintes, foram os **arqueiros que guardavam os desfiladeiros**; lutaram na muralha do [[Desfiladeiro das Oito Vozes]].
 - Fazem parte dos [[Primeiros Povos]] e têm cadeira no [[Conselho das Oito Vozes]].
+
+## Segundo as Crônicas de Ferro
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+- A [[Casa Navarrel]], família nobre de **ascendência élfica** do interior da região central, chegou ao trono imperial e tentou acabar com as guerras de expansão — o que levou à [[Guerra Civil Imperial]].
 
 > [!quote] Nota de margem — D. P.
 > Quando um elfo e um arquivo discordam, o elfo geralmente estava lá. Isso me irrita profundamente.

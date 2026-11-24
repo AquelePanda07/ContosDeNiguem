@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 15105570
       }
+    },
+    {
+      "query": "path:\"08 Instituições\"",
+      "color": {
+        "a": 1,
+        "rgb": 1482885
+      }
     }
   ],
   "collapse-display": true,

@@ -5,7 +5,7 @@ chegada: 310 AR
 perigo: depende inteiramente do humano
 tags:
   - povo/vindo-pelo-mar
-fonte: "Codex de Karn-Velum, Folhas 10, 15"
+fonte: "Codex de Karn-Velum, Folhas 10, 15; Crônicas de Ferro, Livros I, VIII"
 ---
 
 # Humanos
@@ -30,11 +30,19 @@ Aprenderam rápido a ouvir a terra. Quase guerrearam com os [[Elfos]] pelo [[Val
 ### 2. Os da [[A Grande Primavera|Grande Primavera]] (712–860 AR)
 Não conheciam os pactos e não viam motivo para pedir licença a ninguém. Deles nasceram as [[Cidades Livres]] — e, delas, [[Calamesh]] e o [[Império de Ferro]].
 
+## Segundo as Crônicas de Ferro — o êxodo
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+Os humanos que fundaram o Império vieram num **êxodo** de um continente distante em guerra, junto com [[Qareen]], [[Felis]] e outros povos, *unidos menos por uma identidade comum do que pelo cansaço de suas antigas terras*. Chegaram ao **centro-oeste** cerca de um século depois da derrota da Armada e formaram a [[Costa de Ferro]], com [[Naramel]] e [[Calamesh]].
+
+> [!warning] Conflito
+> 📜 O Codex diz que esses humanos fundaram cidades **no leste e no arquipélago** e não fala em Qareen nem em Felis. → [[Conflitos entre Fontes]]
+
 > [!note] O olhar do arquivista
 > *"Um humano criado num porto do leste não é culpado pelo que o Imperador fez. Mas é bom que saiba de onde vem o ferro de suas ferramentas."*
 
 ## Personagens
-[[Ozar Calam]] · [[Imperador de Ferro]]
+[[Ozar Calam]] · [[Dastan Calam]] · [[Imperador de Ferro]]
 
 > [!quote] Nota de margem — D. P.
 > Um humano te contará a história do avô como se fosse antiga. Para nós, foi ontem.

@@ -4,7 +4,7 @@ origem: nativo
 perigo: 2/5 · 4/5 para quem ergue cercas
 tags:
   - povo/nativo
-fonte: "Codex de Karn-Velum, Folha 8"
+fonte: "Codex de Karn-Velum, Folha 8; Crônicas de Ferro, Livros IV, V, VIII"
 ---
 
 # Centauros
@@ -29,6 +29,13 @@ Os clãs guardam **a memória das distâncias**: sabem quantos dias se leva de q
 - **[[A Grande Primavera]]** — foram os primeiros a sofrer: as estepes ganharam cercas, as cercas muros, os muros soldados.
 - **Contra o [[Império de Ferro]]** — uma guerra de desgaste que durou dois séculos e nunca foi vencida por nenhum dos lados.
 - **Hoje** — patrulham as planícies ao redor das ruínas de [[Calamesh]]. Dizem que nunca mais vão deixar ninguém cercar a terra.
+
+## Segundo as Crônicas de Ferro
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+- A [[Casa Pluma]] avançou sobre as estepes e **cercou territórios**.
+- Na [[Guerra Civil Imperial]], os Centauros intensificaram a resistência.
+- Para Lysara, era uma disputa sobre *o modo de ocupar a terra*: *"Para Calamesh, uma fronteira era uma linha a ser administrada. Para os Centauros, certas linhas podiam representar a destruição de um modo de vida."*
 
 > [!quote] Nota de margem — D. P.
 > Pergunte a um centauro a distância de algum lugar e ele responderá em dias e em estrelas. As duas respostas estarão certas.

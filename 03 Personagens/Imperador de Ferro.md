@@ -1,23 +1,28 @@
 ---
 tipo: personagem
-povo: "[[Humanos]]"
 titulo: Imperador de Ferro
-epoca: 902–1141 AR
+aliases:
+  - Imperador
+  - Alashamar (título)
 tags:
   - personagem
-fonte: "Codex de Karn-Velum, Folhas 15, 16"
+  - titulo
+fonte: "Codex de Karn-Velum, Folhas 15, 16; Crônicas de Ferro"
 ---
 
 # Imperador de Ferro
 
-> [!note] Título, não nome
-> O Codex nunca dá o nome de nenhum Imperador. Esta nota reúne o título.
+> [!note] Título, não pessoa
+> O título de quem governa o [[Império de Ferro]]. Sob a [[Casa Alashamar]], o imperador **perdia o nome pessoal** ao ser coroado e passava a ser chamado só de *Imperador* ou *Alashamar* — o que explica por que o 📜 Codex nunca dá o nome dele.
 
-## ► O primeiro
-Neto de [[Ozar Calam]]. Em **902 AR** coroou-se Imperador de Ferro, transformando a [[Liga da Vigília]] no [[Império de Ferro]].
+## Quem usou a Coroa (📘 Crônicas)
+| Período | Casa | Como chegava ao trono |
+|---|---|---|
+| O Punhal | [[Casa Calam]] — começa com [[Dastan Calam]] (902 AR) | Eleição pelas famílias fundadoras ([[Conclave de Ferro]]) |
+| A Lança | [[Casa Octaviam]] — inclui [[Jesamym Octaviam]] | Idem |
+| A Balança | Várias casas nobres; por fim a [[Casa Pluma]] | Idem; sucessão instável |
+| A Coroa Partida | [[Casa Navarrel]] | Eleita; derrubada na [[Guerra Civil Imperial]] |
+| A Nova Ordem | [[Casa Alashamar]] | **Dinastia hereditária permanente**, por quase mil anos |
 
-## ► O último
-Morreu **soterrado** na [[Noite das Forjas]] (1141 AR), quando as minas sob [[Calamesh]] furaram o coração do [[Vulcão Central]].
-
-> [!question] Em aberto
-> Foram vários imperadores entre 902 e 1141 AR (239 anos)? O Codex fala apenas em "o Imperador". → [[Pontas Soltas]]
+## O último
+📜 Codex: morreu **soterrado** na [[Noite das Forjas]] (1141 AR). 📘 Crônicas: não confirma a causa nem a data. → [[Conflitos entre Fontes]]

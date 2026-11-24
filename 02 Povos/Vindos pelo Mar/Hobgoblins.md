@@ -34,5 +34,8 @@ Não vieram explorar nem fugir: vieram **conquistar**, com máquinas de cerco, *
 - Derrotados no [[Desfiladeiro das Oito Vozes]] (600 AR). Vhorak fez o [[Juramento de Vhorak|Juramento]] e nunca voltaram.
 - Mesmo ausentes, o medo deles criou o [[Império de Ferro]]: em 860 AR, bastou o **boato** de velas vermelhas.
 
+> [!danger] As velas de 860 AR (📘 Crônicas)
+> As velas vermelhas que levaram à [[Liga da Vigília]] **não eram hobgoblins**: foram inventadas pelos [[Casa Calam|Calam]].
+
 > [!quote] Nota de margem — D. P.
 > A Pedra do Juramento ainda está lá. Visito-a a cada dez anos. A bandeira apodreceu; o buraco que ela deixou, não.

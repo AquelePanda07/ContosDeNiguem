@@ -12,3 +12,6 @@ Cidades fundadas no leste e no arquipélago pelos [[Humanos]] chegados na [[A Gr
 - Delas nasceu [[Calamesh]] e, depois, o [[Império de Ferro]].
 - Hoje cortam as estepes dos [[Centauros]].
 - Nos [[Dias de Agora]], **não querem ninguém mandando nelas**.
+
+> [!warning] Conflito
+> 📘 As Crônicas situam as primeiras cidades do êxodo na [[Costa de Ferro]], no **centro-oeste**, e falam em *"reinos livres"* que se juntaram à [[Coalizão Alash]]. → [[Conflitos entre Fontes]]

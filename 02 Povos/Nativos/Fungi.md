@@ -6,7 +6,7 @@ aliases:
 perigo: 1/5 (se não portar fogo)
 tags:
   - povo/nativo
-fonte: "Codex de Karn-Velum, Folha 4"
+fonte: "Codex de Karn-Velum, Folha 4; Crônicas de Ferro, Livros II, VIII"
 ---
 
 # Fungi
@@ -33,6 +33,12 @@ Não falam com a boca: falam pelo **micélio**, uma rede de fios finíssimos sob
 - O [[Império de Ferro]] nunca conquistou as suas florestas.
 - **Hoje** — trabalham devagar sobre as minas mortas de [[Calamesh]], tentando ensinar o solo a respirar outra vez.
 - Dizem que as [[Serpes Esmeralda]] nasceram do calor do vulcão desperto.
+
+## Segundo as Crônicas de Ferro
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+- Mantinham colônias subterrâneas e redes de micélio; a sua relação com os [[Anões]] mostra formas de convivência *anteriores* ao Império.
+- Para eles, a terra não era só um recurso, mas *uma rede viva de relações* — algo que não cabia na lógica das províncias imperiais.
 
 > [!quote] Nota de margem — D. P.
 > Apaguei o cachimbo ao entrar na mata dos Fungi. Recomendo ao leitor o mesmo — e que não o reacenda antes de sair dela.

@@ -4,18 +4,22 @@ autor: "[[Dunrik Pedralume]]"
 data_no_mundo: 1167 AR
 tags:
   - fonte
+responsavel: Artur
 ---
 
 # Codex de Karn-Velum
 *Bestiário e Crônica da Terra Que Respira* — Arquivos de Pedra · Terceira Galeria
 
-Compilado e copiado por [[Dunrik Pedralume]], arquivista de [[Karn-Velum]], em **1167 AR**. É uma *cópia de trabalho*, em papel e não em pedra, *para ser carregada por quem precisa atravessar o continente sem morrer de ignorância*.
+Compilado e copiado por [[Dunrik Pedralume]], arquivista de [[Biblioteca-Fortaleza de Karn-Velum|Karn-Velum]], em **1167 AR**. É uma *cópia de trabalho*, em papel e não em pedra, *para ser carregada por quem precisa atravessar o continente sem morrer de ignorância*.
+
+> [!info] No grupo
+> Documento criado por **Artur**. É contestado em vários pontos pelas [[Crônicas de Ferro]] — ver [[Conflitos entre Fontes]].
 
 ## Estrutura
 | Folha | Conteúdo |
 |---|---|
 | 1 | Ao Leitor — apresentação de Dunrik |
-| 2 | Carta — [[A Terra Que Respira]] |
+| 2 | Carta — [[Karn-Velum]] |
 | **Livro I · Dos Povos Nativos** | |
 | 3–8 | [[Fadas e Feéricos]] · [[Fungi]] · [[Povos-Sapo]] · [[Ceratops]] · [[Velocis]] · [[Centauros]] |
 | **Livro II · Dos que Vieram pelo Mar** | |

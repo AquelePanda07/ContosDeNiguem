@@ -13,3 +13,6 @@ Facção dos [[Dias de Agora]] que quer **reacender as forjas** de [[Calamesh]] 
 
 > [!question] Pouco se sabe
 > O Codex não diz quem os lidera nem de onde vêm. → [[Pontas Soltas]]
+
+> [!question] Pista nas Crônicas?
+> As 📘 Crônicas contam que a [[Casa Calam]] foi exilada e teve o nome apagado da nobreza. Nenhuma fonte liga os Calam aos Herdeiros de Ferro — fica como pergunta em [[Pontas Soltas]].

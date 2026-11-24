@@ -4,7 +4,7 @@ origem: nativo
 perigo: 3/5
 tags:
   - povo/nativo
-fonte: "Codex de Karn-Velum, Folha 7"
+fonte: "Codex de Karn-Velum, Folha 7; Crônicas de Ferro, Livros IV, V, VIII"
 ---
 
 # Velocis
@@ -30,6 +30,14 @@ Os clãs brigam entre si por território, e uma paz entre dois clãs Velocis val
 - Levavam mensagens entre os povos em dias, quando um mensageiro comum levaria semanas.
 - **[[Guerra das 100 Cinzas]]** — era por eles que as ordens chegavam a todos os exércitos aliados ao mesmo tempo. No [[Desfiladeiro das Oito Vozes]], separaram as colunas inimigas na mata com as [[Fadas e Feéricos|fadas]].
 - **Contra [[Calamesh]]** — sabotavam as linhas de suprimento e desapareciam antes do amanhecer.
+
+## Segundo as Crônicas de Ferro
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+- A [[Casa Pluma]] tentou dominá-los: a guerra **terminou sem vencedor**, porque os Velocis usavam a mobilidade e atacavam as linhas de abastecimento.
+- Na [[Guerra Civil Imperial]], voltaram a atacar caminhos e posições imperiais.
+
+> *"Os Velocis não precisaram destruir o Império para preservar sua autonomia. Precisaram apenas impedir que ele os governasse."*
 
 > [!quote] Nota de margem — D. P.
 > Se um Velocis te segue há três dias, ele já decidiu o que fazer contigo. Se ainda estás vivo, decidiu a teu favor.

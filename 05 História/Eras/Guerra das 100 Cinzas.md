@@ -16,7 +16,7 @@ fonte: "Codex de Karn-Velum, Folhas 12, 14"
 ![[ilustracao-desembarque-da-armada.jpg]]
 
 ## Resumo
-Em 588 AR, a [[Grande Armada]] dos [[Hobgoblins]] desembarcou no oeste. Durante doze anos, **os povos lutaram separados e perderam separados**, e a Armada queimou **cem lugares**: aldeias, bosques sagrados, entrepostos e bibliotecas. Os nomes estão gravados nas colunas negras da Primeira Galeria de [[Karn-Velum]].
+Em 588 AR, a [[Grande Armada]] dos [[Hobgoblins]] desembarcou no oeste. Durante doze anos, **os povos lutaram separados e perderam separados**, e a Armada queimou **cem lugares**: aldeias, bosques sagrados, entrepostos e bibliotecas. Os nomes estão gravados nas colunas negras da Primeira Galeria de [[Biblioteca-Fortaleza de Karn-Velum|Karn-Velum]].
 
 Só em 600 AR, no [[Desfiladeiro das Oito Vozes]], todos lutaram juntos pela primeira vez — e a Armada quebrou ao meio-dia.
 

@@ -4,7 +4,7 @@ origem: vindo pelo mar
 chegada: 0 AR
 tags:
   - povo/vindo-pelo-mar
-fonte: "Codex de Karn-Velum, Folha 9"
+fonte: "Codex de Karn-Velum, Folha 9; Crônicas de Ferro, Livros III, VIII"
 ---
 
 # Anões
@@ -31,8 +31,14 @@ A contagem dos anos (**AR — após os Registros**) começa com a chegada deles.
 - Lutaram na muralha do [[Desfiladeiro das Oito Vozes]].
 - O [[Império de Ferro]] nunca conquistou as suas montanhas.
 
+## Segundo as Crônicas de Ferro
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+- A Imperatriz [[Jesamym Octaviam]] tentou tomar as [[Bibliotecas-Fortalezas]] da [[Grande Cordilheira]] com magia e legiões, e **fracassou**: *"A lança golpeou a montanha e se partiu."*
+- Para Lysara, isso provou que *Calamesh não tinha autoridade universal sobre o conhecimento*.
+
 ## Culpas
-A [[Grande Armada]] marchou sobre as estradas deles. Há uma galeria em [[Karn-Velum]] que permanece selada.
+A [[Grande Armada]] marchou sobre as estradas deles. Há uma galeria em [[Biblioteca-Fortaleza de Karn-Velum|Karn-Velum]] que permanece selada.
 
 ## Personagens
 [[Borgra Pedralume]] · [[Dunrik Pedralume]] · [[Dunna Ferrolho]]

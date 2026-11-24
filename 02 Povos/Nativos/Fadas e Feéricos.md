@@ -7,7 +7,7 @@ aliases:
 perigo: 2/5
 tags:
   - povo/nativo
-fonte: "Codex de Karn-Velum, Folha 3"
+fonte: "Codex de Karn-Velum, Folha 3; Crônicas de Ferro, Livros II, III, VIII"
 ---
 
 # Fadas e Feéricos
@@ -33,6 +33,15 @@ Cobram favores com memória melhor que a dos anões. Quem lhes deve algo descobr
 - **Contra [[Calamesh]]** — fizeram o mesmo, com mais crueldade, porque o fogo das forjas lhes queimou parentes.
 - O [[Império de Ferro]] nunca conquistou as suas florestas.
 - Ensinaram aos [[Elfos]] a arte de esconder caminhos.
+
+## Segundo as Crônicas de Ferro
+*Fonte: [[Crônicas de Ferro]], de [[Lysara Vellacanto]].*
+
+- **"O Punhal":** as primeiras campanhas da [[Casa Calam]] foram contra elas. Colunas perdiam o rumo, caminhos sumiam: *"Bastava fazer com que os soldados não soubessem onde estavam."*
+- **"A Lança":** a [[Casa Octaviam]] trocou a guerra por **tratados**. As Fadas viraram uma **província autônoma**: autogoverno interno, mas politicamente ligadas a [[Calamesh]]. *"O Império chamava isso de integração. Os Fadas provavelmente preferiam chamar de acordo."*
+
+> [!warning] Conflito
+> 📜 O Codex diz que o Império **parou** nas florestas das fadas. 📘 As Crônicas dizem que elas viraram **província** do Império. → [[Conflitos entre Fontes]]
 
 > [!quote] Nota de margem — D. P.
 > Nunca agradeça uma fada. Agradecer é admitir dívida. Diga apenas: "Vejo o que fizeste."
