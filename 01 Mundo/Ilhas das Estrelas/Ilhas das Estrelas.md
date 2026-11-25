@@ -35,7 +35,7 @@ Em todo o resto do mundo as nuvens vêm e vão. Aqui, **toda noite**, desde que 
 
 ## Contato com Karn-Velum
 - Mercadores do continente chamam as ilhas de **"o fim do mapa"**.
-- Um **arquivista anão** pediu para copiar as cartas celestes do reino; o Rei recusou com cortesia: *"um mapa de casa não se empresta a quem não pretende voltar para ela."* Provavelmente veio da [[Biblioteca-Fortaleza de Karn-Velum]] — talvez fosse o próprio [[Dunrik Pedralume]] (hipótese, não confirmada). Provavelmente veio da [[Biblioteca-Fortaleza de Karn-Velum]] — talvez o próprio [[Dunrik Pedralume]] (hipótese, não confirmada).
+- Um **arquivista anão** pediu para copiar as cartas celestes do reino; o Rei recusou com cortesia: *"um mapa de casa não se empresta a quem não pretende voltar para ela."* Provavelmente veio da [[Biblioteca-Fortaleza de Karn-Velum]] — talvez fosse o próprio [[Dunrik Pedralume]] (hipótese, não confirmada).
 - Uma clériga da [[Deusa Criança]] já ensinou uma cantiga de roda a um embaixador de Karn-Velum, no meio de uma audiência.
 
 > [!warning] Conferir
