@@ -33,7 +33,4 @@ Curam doentes, abrigam órfãos, alimentam pescadores — **e fazem tudo brincan
 Uma deusa tão nova que ainda não sabia do que era deusa gostava de olhar as estrelas. Achou um arquipélago coberto de nuvens que nunca tinha visto uma estrela e fez um acordo: **toda noite**, quando a lua aparecesse, as nuvens se esconderiam. Assim as ilhas ganharam o nome de **Ilhas das Estrelas**.
 > Dizem que, se alguém nas ilhas disser o **nome certo** de uma estrela, ela aponta o caminho até lá. Ninguém sabe qual é o nome certo.
 
-> [!tip] Verdade do mestre
-> A Deusa Criança dá às estrelas **nomes de deuses gregos**. O nome certo é um deles.
-
 As canções dizem que foi o céu aberto dela que guiou o [[Véu de Aster]]: *as ilhas sempre foram dela; nós apenas viemos morar na casa.*
