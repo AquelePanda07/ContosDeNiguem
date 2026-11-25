@@ -7,10 +7,11 @@ tags:
 # Karn-Velum
 
 > [!abstract] Sobre este cofre
-> Mundo de RPG criado por **Breno** (organização), **Artur** (*Codex de Karn-Velum*) e **Guilherme** (*Crônicas de Ferro*).
+> Mundo de RPG criado por **Breno** (organização e *O Céu que nos Trouxe*), **Artur** (*Codex de Karn-Velum*) e **Guilherme** (*Crônicas de Ferro*).
 > Cada povo, lugar, personagem, facção e era tem a sua nota, e elas se ligam entre si. As notas dizem de qual documento veio cada informação:
 > - 📜 **Codex** — [[Codex de Karn-Velum]], escrito no mundo por [[Dunrik Pedralume]] (arquivista anão)
 > - 📘 **Crônicas** — [[Crônicas de Ferro]], escrito no mundo por [[Lysara Vellacanto]] (historiadora de Naramel)
+> - 🌟 **Céu** — [[O Céu que nos Trouxe]], escrito no mundo por [[Sereth Nhal'ven]] (escriba do Reino das Estrelas)
 >
 > Os dois autores se conhecem e **discordam**. O que precisa de decisão do grupo está em [[Conflitos entre Fontes]]; dúvidas abertas, em [[Pontas Soltas]].
 
@@ -23,6 +24,17 @@ tags:
 - **Sul e leste:** [[Vale de Ithren]] · [[Pântanos do Sudoeste]] · [[Estepes do Leste]] · [[Ermo Gelado]]
 - **Outros:** [[Estradas de Pedra]] · [[Desfiladeiro das Oito Vozes]] · [[Gatópolis]] · [[Elaria]]
 
+## 🌟 Ilhas das Estrelas (perto de Karn-Velum)
+- **Lugares:** [[Ilhas das Estrelas]] · [[Véu de Aster]] · [[Aeltharis]] (planeta natal)
+- **Povos:** [[Elfos das Estrelas]] · [[Elfos do Breu]]
+- **Poder:** [[Reino das Estrelas]]
+- **Personagens:** [[Bri'kan Caelum]] · [[Elarion Caelum]] · [[Sereth Nhal'ven]] · [[Aelindra Caelum]] · [[Nhyra Vel'tharn]] · [[Vaelor Vel'tharn]]
+- **História:** [[Queda de Aeltharis]] · [[Morte do Príncipe Elarion]]
+- **Criatura:** [[Ythrax, o Adormecido]]
+
+## ✨ Divindades
+[[Deusa Criança]] · [[Vaurath]]
+
 ## 🌿 Povos nativos
 [[Fadas e Feéricos]] · [[Fungi]] · [[Povos-Sapo]] · [[Ceratops]] · [[Velocis]] · [[Centauros]]
 
@@ -30,7 +42,7 @@ tags:
 [[Anões]] · [[Humanos]] · [[Primeiros Povos]] · [[Elfos]] · [[Hobgoblins]] · [[Qareen]] · [[Felis]]
 
 ## 👤 Personagens
-- **Cronistas:** [[Dunrik Pedralume]] · [[Lysara Vellacanto]]
+- **Cronistas:** [[Dunrik Pedralume]] · [[Lysara Vellacanto]] · [[Sereth Nhal'ven]]
 - **Era antiga:** [[Borgra Pedralume]] · [[Orrum Duas-Águas]] · [[Dunna Ferrolho]] · [[Vhorak Dente-de-Cinza]]
 - **Império:** [[Ozar Calam]] · [[Dastan Calam]] · [[Jesamym Octaviam]] · [[Imperador de Ferro]]
 
@@ -59,7 +71,7 @@ Momentos-chave: [[Pacto da Sétima Voz]] · [[Juramento de Vhorak]] · [[Guerra 
 [[Dragões Rubros]] · [[Serpes Esmeralda]] · [[Autômatos de Ferro]] · [[Fogos-de-Cinza]]
 
 ## 📚 Fontes e trabalho do grupo
-- [[Codex de Karn-Velum]] (Artur) · [[Crônicas de Ferro]] (Guilherme) — PDFs inclusos
+- [[Codex de Karn-Velum]] (Artur) · [[Crônicas de Ferro]] (Guilherme) · [[O Céu que nos Trouxe]] (Breno) — PDFs inclusos
 - [[Conflitos entre Fontes]] — **decisões pendentes do grupo**
 - [[Pontas Soltas]] — perguntas em aberto
 - Modelos para novas notas: pasta `Modelos`

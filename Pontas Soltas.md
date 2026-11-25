@@ -35,6 +35,17 @@ tags:
 - [ ] **Magia:** como funciona? O *sangue mágico* dos Alashamar é hereditário? O que acontece com quem conjura sem autorização hoje? ([[Magia no Império]])
 - [ ] **O selo imperial:** quantos existem e quem os tem? Controla os [[Autômatos de Ferro]].
 
+## Ilhas das Estrelas (🌟)
+- [ ] [[Morte do Príncipe Elarion]]: quem mandou o clérigo? O que o príncipe tinha descoberto?
+- [ ] O nome do marido de [[Nhyra Vel'tharn]], rei do Breu.
+- [ ] [[Ythrax, o Adormecido]] ainda vive? Onde foi parar o pedaço arrancado por Aelindra?
+- [ ] O [[Véu de Aster]] pode voar de novo? Que peças faltam?
+- [ ] O caminho entre as estrelas que *se abre em certas noites* existe?
+- [ ] O **nome certo** da estrela, do conto da [[Deusa Criança]].
+- [ ] Quem são a **Guerra** e a **Vida**, os supostos pais da Deusa Criança? Fazem parte de um panteão maior?
+- [ ] Os nomes das outras **seis ilhas** com nome nos mapas.
+- [ ] De qual biblioteca veio o **arquivista anão** que pediu as cartas celestes?
+
 ## Mistérios do Codex
 - [ ] O que guarda **a galeria selada** da [[Biblioteca-Fortaleza de Karn-Velum]]?
 - [ ] Quem são os **[[Herdeiros de Ferro]]**? Por que os [[Povos-Sapo]] negociam com eles?

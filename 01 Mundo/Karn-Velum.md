@@ -33,6 +33,9 @@ O continente onde se passa o RPG. O 📜 Codex o chama de *a Terra Que Respira* 
 ## "Karn-Velum, um povo"
 Lema da [[Casa Alashamar]]. Para [[Lysara Vellacanto]], *talvez Karn-Velum nunca tenha sido um único povo*, mas um continente de povos que aprenderam a viver sob a mesma ordem — *às vezes por escolha, às vezes por conveniência e, em muitas ocasiões, por força*.
 
+## Vizinhos
+- [[Ilhas das Estrelas]] — arquipélago além do horizonte, que os mercadores do continente chamam de *"o fim do mapa"*. Ligação leve com a história do continente (🌟 [[O Céu que nos Trouxe]]).
+
 ## Ligações
 - Cortado pelas [[Estradas de Pedra]] dos anões e pelas estradas imperiais ([[Economia e Infraestrutura Imperial]]).
 - Situação atual: [[Dias de Agora]].

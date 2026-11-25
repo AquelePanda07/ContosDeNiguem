@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 1482885
       }
+    },
+    {
+      "query": "path:\"09 Divindades\"",
+      "color": {
+        "a": 1,
+        "rgb": 15844367
+      }
     }
   ],
   "collapse-display": true,

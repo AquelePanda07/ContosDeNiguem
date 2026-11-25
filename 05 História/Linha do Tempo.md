@@ -7,7 +7,7 @@ fonte: Codex de Karn-Velum; Crônicas de Ferro
 
 # Linha do Tempo
 *AR = após os Registros — a contagem começa com a chegada dos [[Anões]].*
-📜 = [[Codex de Karn-Velum]] · 📘 = [[Crônicas de Ferro]]
+📜 = [[Codex de Karn-Velum]] · 📘 = [[Crônicas de Ferro]] · 🌟 = [[O Céu que nos Trouxe]]
 
 > [!warning] Cronologia imperial em disputa
 > As datas depois de 902 AR **não fecham** entre as duas fontes. Abaixo, as datas do Codex e, sem datas, a ordem das dinastias das Crônicas. → [[Conflitos entre Fontes]]
@@ -37,6 +37,8 @@ fonte: Codex de Karn-Velum; Crônicas de Ferro
 | **c. 700 AR** | O êxodo chega à [[Costa de Ferro]] (*"cerca de um século depois da derrota da Armada"*); fundação de [[Naramel]] e [[Calamesh]] | 📘 |
 | **712–860 AR** | [[A Grande Primavera]] | 📜 |
 | **860 AR** | [[Ozar Calam]] cria a [[Liga da Vigília]] (📘: com uma ameaça inventada) | 📜📘 |
+| **880 AR** | O [[Véu de Aster]] cai nas [[Ilhas das Estrelas]]: chegam os [[Elfos das Estrelas]] e os [[Elfos do Breu]] ([[Queda de Aeltharis]]) | 🌟 |
+| **883 AR** (aprox.) | Terceiro ano de [[Bri'kan Caelum]]: a Vigília Noturna aniquila a frota das Ilhas Rasas | 🌟 |
 | **902 AR** | [[Dastan Calam]] é coroado o primeiro [[Imperador de Ferro]] | 📜📘 |
 | — | **O Punhal** — [[Casa Calam]]: expansão; guerra contra as Fadas | 📘 |
 | — | **A Lança** — [[Casa Octaviam]]: tratado com as Fadas; expedição de [[Jesamym Octaviam]] | 📘 |
@@ -49,3 +51,4 @@ fonte: Codex de Karn-Velum; Crônicas de Ferro
 | depois da queda | Surgem as [[Serpes Esmeralda]] | 📜 |
 | **1167 AR** | [[Dunrik Pedralume]] compila o [[Codex de Karn-Velum]] | 📜 |
 | ? | [[Lysara Vellacanto]] escreve as [[Crônicas de Ferro]] | 📘 |
+| **c. 1160 AR** (*quase três séculos* depois de 880) | [[Morte do Príncipe Elarion]]; [[Sereth Nhal'ven]] escreve [[O Céu que nos Trouxe]] | 🌟 |

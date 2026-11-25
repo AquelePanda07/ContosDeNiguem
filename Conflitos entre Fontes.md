@@ -82,10 +82,19 @@ O Livro II diz que *"durante os primeiros quinze anos do governo de Dastan"* o C
 
 **Decisão:** _____
 
+## 9. Qual é "o arquipélago" conquistado pelo Império?
+| 📜 Codex | 🌟 O Céu que nos Trouxe |
+|---|---|
+| O Império de Ferro conquistou *"as planícies, as estepes e o arquipélago"*. | O [[Reino das Estrelas]] fica num arquipélago perto de Karn-Velum e nunca menciona o Império. |
+
+A ideia do Breno é que a ligação seja leve, então o mais simples é dizer que **são arquipélagos diferentes**. Mas vale registrar.
+**Decisão:** _____
+
 ---
 
 ## Onde as fontes se completam (sem conflito)
 - **Velas vermelhas de 860 AR:** o Codex fala em *boato*; as Crônicas revelam que foi **invenção dos Calam**.
 - **Escravidão dos Ceratops:** o Codex culpa *Calamesh*; as Crônicas especificam a **Casa Pluma**.
 - **O Imperador sem nome:** o Codex nunca dá o nome; as Crônicas explicam que, sob os Alashamar, o imperador **perdia o nome** ao ser coroado.
+- **Data do presente:** 🌟 Sereth escreve *quase três séculos* depois de 880 AR, ou seja, por volta de 1160 AR — bate com o presente do 📜 Codex (1167 AR).
 - **Anões, Velocis, Centauros, Povos-Sapo:** as duas fontes concordam que resistiram; as Crônicas acrescentam os episódios (Jesamym, a guerra dos Pluma, a Guerra Civil).
