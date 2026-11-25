@@ -8,7 +8,7 @@ tags:
   - lugar
   - regiao
   - ilhas-das-estrelas
-fonte: "O Céu que nos Trouxe, Livros III, VII e Conto"
+fonte: "O Céu que nos Trouxe, Livros III, VII e Conto; Decisão do Breno (25/11/2026)"
 ---
 
 # Ilhas das Estrelas
@@ -29,12 +29,13 @@ Em todo o resto do mundo as nuvens vêm e vão. Aqui, **toda noite**, desde que 
 | **Aster** | A maior ilha, onde o [[Véu de Aster]] caiu e abriu um vale |
 | **Cidade Alta** | Construída sobre a cicatriz da queda, em Aster, com o casco do navio no centro, coberto de musgo e cúpulas de vidro |
 | **Observatório** | Dentro da Cidade Alta; os astrônomos trabalham dia e noite. Onde [[Elarion Caelum]] estudava e morreu |
+| **Nhaleth, Corvanna, Mirelle, Ithyra, Sorvhal, Lunessa** | As outras seis ilhas com nome; cada uma tem um farol e um líder, os [[Faroleiros]] |
 | **Porto baixo** | Onde chegam os navios estrangeiros |
 | **Ilhas de fora** | Pescadores, pastores de cabras e cultivadores de algas; veem a Cidade Alta como algo bonito e distante |
 
 ## Contato com Karn-Velum
 - Mercadores do continente chamam as ilhas de **"o fim do mapa"**.
-- Um **arquivista anão** pediu para copiar as cartas celestes do reino; o Rei recusou com cortesia: *"um mapa de casa não se empresta a quem não pretende voltar para ela."*
+- Um **arquivista anão** pediu para copiar as cartas celestes do reino; o Rei recusou com cortesia: *"um mapa de casa não se empresta a quem não pretende voltar para ela."* Provavelmente veio da [[Biblioteca-Fortaleza de Karn-Velum]] — talvez fosse o próprio [[Dunrik Pedralume]] (hipótese, não confirmada). Provavelmente veio da [[Biblioteca-Fortaleza de Karn-Velum]] — talvez o próprio [[Dunrik Pedralume]] (hipótese, não confirmada).
 - Uma clériga da [[Deusa Criança]] já ensinou uma cantiga de roda a um embaixador de Karn-Velum, no meio de uma audiência.
 
 > [!warning] Conferir

@@ -6,7 +6,7 @@ fundacao: 880 AR
 tags:
   - faccao
   - ilhas-das-estrelas
-fonte: "O Céu que nos Trouxe, Livros II, III, IV"
+fonte: "O Céu que nos Trouxe, Livros II, III, IV; Decisão do Breno (25/11/2026)"
 ---
 
 # Reino das Estrelas
@@ -17,6 +17,8 @@ Reino das [[Ilhas das Estrelas]], fundado em 880 AR pelos sobreviventes de [[Ael
 - **Rei:** [[Bri'kan Caelum]], o primeiro e único.
 - **Conselho duplo:** reúne-se ao **meio-dia** (o dia é dos [[Elfos das Estrelas]]) e à **meia-noite** (a noite é dos [[Elfos do Breu]]). *Nenhuma decisão vale se não for tomada nas duas.*
 - **Vigília Noturna:** elfos do Breu a serviço do Rei. Aniquilaram a frota das Ilhas Rasas numa só noite. [[Sereth Nhal'ven]] é a sua escriba.
+
+- **[[Faroleiros]]:** os líderes das seis ilhas de fora com nome, que mandam notícias ao Rei por sinais de luz toda noite.
 
 ## Política externa
 O Rei vê o reino como **um porto de passagem, não uma conquista**: não deseja terras, não cobra tributos, honra todos os tratados — mas responde a qualquer ataque com aniquilação.

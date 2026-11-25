@@ -8,7 +8,7 @@ aliases:
 tags:
   - criatura
   - ilhas-das-estrelas
-fonte: "O Céu que nos Trouxe, Livros I, II, V"
+fonte: "O Céu que nos Trouxe, Livros I, II, V; Decisão do Breno (25/11/2026)"
 ---
 
 # Ythrax, o Adormecido
@@ -21,4 +21,7 @@ Parecia um **dragão ancião**, *mas nenhum dragão é tão grande*. Dormia no n
 - Subiu do núcleo devorando o mundo, crescendo a cada ano.
 - As duas rainhas e os dois reis o prenderam por uma noite para o [[Véu de Aster]] fugir.
 
-> [!question] Ainda vive? O pedaço arrancado foi parar onde? → [[Pontas Soltas]]
+> [!tip] Verdade do mestre
+> **Ythrax ainda vive.** Continua devorando planetas, um depois do outro, até adormecer de novo.
+
+> [!question] Onde foi parar o pedaço que Aelindra arrancou? → [[Pontas Soltas]]

@@ -27,13 +27,13 @@ tags:
 ## 🌟 Ilhas das Estrelas (perto de Karn-Velum)
 - **Lugares:** [[Ilhas das Estrelas]] · [[Véu de Aster]] · [[Aeltharis]] (planeta natal)
 - **Povos:** [[Elfos das Estrelas]] · [[Elfos do Breu]]
-- **Poder:** [[Reino das Estrelas]]
-- **Personagens:** [[Bri'kan Caelum]] · [[Elarion Caelum]] · [[Sereth Nhal'ven]] · [[Aelindra Caelum]] · [[Nhyra Vel'tharn]] · [[Vaelor Vel'tharn]]
+- **Poder:** [[Reino das Estrelas]] · [[Faroleiros]]
+- **Personagens:** [[Bri'kan Caelum]] · [[Elarion Caelum]] · [[Sereth Nhal'ven]] · [[Aelindra Caelum]] · [[Nhyra Vel'tharn]] · [[Vaelor Vel'tharn]] · [[Avarún]]
 - **História:** [[Queda de Aeltharis]] · [[Morte do Príncipe Elarion]]
 - **Criatura:** [[Ythrax, o Adormecido]]
 
 ## ✨ Divindades
-[[Deusa Criança]] · [[Vaurath]]
+[[Panteão]] · [[Deusa Criança]] · [[Vaurath]]
 
 ## 🌿 Povos nativos
 [[Fadas e Feéricos]] · [[Fungi]] · [[Povos-Sapo]] · [[Ceratops]] · [[Velocis]] · [[Centauros]]

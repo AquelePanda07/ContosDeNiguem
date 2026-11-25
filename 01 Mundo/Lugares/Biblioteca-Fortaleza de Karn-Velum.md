@@ -22,7 +22,7 @@ Uma das [[Bibliotecas-Fortalezas]] dos [[Anões]], nas montanhas do noroeste. É
 - Em 1004 AR, um oficial de [[Calamesh]] arrancou a Prancha IV (dos [[Ceratops]]) durante a requisição dos arquivos; nunca foi devolvida.
 
 > [!note] Nas Ilhas das Estrelas (🌟)
-> Um arquivista anão do continente pediu para copiar as cartas celestes do [[Reino das Estrelas]], e o Rei recusou. O livro não diz de qual biblioteca ele vinha.
+> Um arquivista anão do continente pediu para copiar as cartas celestes do [[Reino das Estrelas]], e o Rei recusou. O livro não diz de qual biblioteca ele vinha; a hipótese do grupo é que viesse daqui — talvez o próprio [[Dunrik Pedralume]].
 
 ## Resistiu ao Império
 O [[Império de Ferro]] parou nas montanhas dos anões e não conseguiu conquistá-las.
